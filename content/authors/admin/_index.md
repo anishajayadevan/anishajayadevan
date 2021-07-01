@@ -6,9 +6,7 @@ organizations:
   url: https://ges.umbc.edu/
 role: PhD student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /contact
+
 - display:
     header: true
   icon: twitter
