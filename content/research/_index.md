@@ -4,5 +4,80 @@ type: widget_page
 title: Research
 
 # Homepage is headless, other widget pages are not.
-headless: false
+#headless: false
+
 ---
+<br>
+
+**How will increasing urbanization affect the movement and crop-raiding behaviour of Asian elephants?**
+
+<img align = "left" src="/img/elephants.jpg" alt = "Elephants crossing a road">
+<br CLEAR = all>
+Peri-urban areas around Bengaluru has witnessed dramatic changes that have led to increased agriculture, the fragmentation of forests and the expansion of linear infrastructure. I am building a model of elephant decision-making to understand how present and future land-use changes might affect elephant movement patterns.
+<p>
+
+This project is part of the [Frontier Elephant Programme](https://frontierelephants.info/) and funded by the Bengaluru Sustainability Forum.
+
+<br>
+
+***
+
+<br>
+
+**Evaluating landscape permeability to large mammal movement in two conservation priority landscapes in India**
+
+<div class = "row">
+  <div class = "col-5">
+    <img src = "/img/wg.jpg" alt = "Landscape permeability in the Western Ghats" >
+  </div>
+  <div class = "col-5">
+    <img src = "/img/ci.jpg" alt = "Landscape permeability in Central India" >
+  </div>
+</div>
+
+*Landscape permeability for large mammals in the Western Ghats (left) and Central India (right)*
+
+
+
+*[Read the paper [here](https://www.sciencedirect.com/science/article/abs/pii/S0006320720306716); Access the model [here](https://github.com/anishajayadevan/navigatingPavedParadise)]*
+
+As part of a [Science for Nature and People Partnership project](http://snappartnership.net/groups/landscape-connectivity-in-india/), I evaluated landscape permeability to movement for the elephant, gaur, leopard, sambar and sloth bear in the Western Ghats and (with the exception of the elephant) Central India. We found that overall movement in both landscapes is reduced, suggesting low permeability to movement. Our spatially-explicit results identify where animal movement is unrestricted, increased or impeded due to underlying landscape features. Along with maps highlighting overlap of different landscape results, these maps can aid land-use planning and conservation prioritization, with the goal of reconciling development with conservation.
+
+I also led the development of a science-based data portal, [India Under Construction](https://indiaunderconstruction.com/), along with Srinivas Vaidyanathan. The portal aims to allow a wide range of users, from scientists to activists, to understand and take informed action on habitat fragmentation in India.
+
+<br>
+
+***
+
+<br>
+
+**How does increased woody cover influence the behaviour and community of nocturnal rodents in a semi-arid grassland in India?**
+
+<div class = "row">
+  <div class = "col-5">
+    <img src = "/img/prosopis.jpg" alt = "Landscape permeability in the Western Ghats" >
+  </div>
+  <div class = "col-5">
+    <img src = "/img/millardia.jpg" alt = "Landscape permeability in Central India" >
+  </div>
+</div>
+
+*[Read the paper [here](https://www.researchgate.net/publication/324057118_Bush_encroachment_influences_nocturnal_rodent_community_and_behaviour_in_a_semi-arid_grassland_in_Gujarat_India)]*
+
+Bush encroachment, which is the natural or artificial increase in woody vegetation, is one of the major threats to savannas globally. In the Banni grasslands of India— once one of India's largest grasslands, bush encroachment due to the invasive Prosopis juliflora has resulted in the conversion of ~45% of the grassland into woodlands. I investigated how bush encroachment in the Banni influenced the behaviour of nocturnal rodents which are a keystone species in grasslands.
+
+This research was for my dissertation, as part of the [Master's program in Wildlife Biology and Conservation](https://www.ncbs.res.in/mscprogram/), offered by Wildlife Conservation Society India and the National Centre for Biological Sciences. My advisors were Dr. Shomen Mukherjee and Dr. Abi Tamim Vanak.
+
+I presented a poster on this study at the 'semi-arid shrublands under changing climates' session at the [American Geophysical Union](https://sites.agu.org/) conference in San Francisco, USA, in Dec 2016.
+
+<br>
+
+***
+
+<br>
+
+**Understanding species richness patterns in the Western Ghats of India**
+
+For many taxa like trees and frogs, there is a monotonic increase in species richness from the north to south of the Western Ghats biodiversity hotspot. Why is this? Along with Dr. Kartik Shanker from the Indian Institute of Sciences, I simulated how species ranges interact with temperature and boundaries (such as the coast line or the edge of a habitat) to influence species richness patterns in the Western Ghats.
+
+I presented a poster on this work at the International Biogeography Society meeting in Bangalore, India, in Sep 2017.
