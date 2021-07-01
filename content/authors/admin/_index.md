@@ -8,7 +8,7 @@ role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: /contact
 - display:
     header: true
   icon: twitter
@@ -25,4 +25,4 @@ superuser: true
 title: Anisha Jayadevan
 ---
 
-Hello! I am a PhD student at the [Earth from Above Lab](https://www.theearthfromabove.com/) at University of Maryland, Baltimore County. I study animal movement in the context of habitat fragmentation, urbanisation and agricultural expansion. I also love writing (you can read some of my published work here) and getting scientists to talk about their work at public gatherings (more [here](https://cafeoikos.wordpress.com/)).
+Hello! I am a PhD student at the [Earth from Above Lab](https://www.theearthfromabove.com/) at University of Maryland, Baltimore County. I study animal movement in the context of habitat fragmentation, urbanisation and agricultural expansion. I also love writing (you can read some of my published work [here](/writing.md)) and getting scientists to talk about their work at public gatherings (more [here](https://cafeoikos.wordpress.com/)).
