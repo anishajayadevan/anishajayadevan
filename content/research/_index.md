@@ -9,7 +9,7 @@ title: Research
 ---
 <br>
 
-**How will increasing urbanization affect the movement and crop-raiding behaviour of Asian elephants?**
+**How will increasing urbanization affect the movement and crop-foraging behaviour of Asian elephants?**
 
 <img align = "left" src="/img/elephants.jpg" alt = "Elephants crossing a road">
 <br CLEAR = all>
