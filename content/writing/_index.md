@@ -8,9 +8,11 @@ headless: false
 ---
 <br>
 
-*I also blog at [The Forest Spirit](https://theforestspirit.wordpress.com/) (nature, ecology) and [Horn OK Please](https://horn-ok.blogspot.com/) (stories, ramblings). [This article](https://theforestspirit.wordpress.com/2020/07/12/making-room-for-kindness-in-research-and-academia/) on cultivating kindness in research and academia struck a chord with a lot of people. I hope it's a conversation we can continue building on.*
+*[This article](https://theforestspirit.wordpress.com/2020/07/12/making-room-for-kindness-in-research-and-academia/) on cultivating kindness in research and academia struck a chord with a lot of people. I hope it's a conversation we can continue building on.*
 
 ***
+
+["I notice, I wonder, it reminds me of."](https://birdcount.in/fieldnotes-and-nature-journaling/) **Bird Count India**. November, 2021
 
 [A Family Saga: To Bee or Not to Bee.](https://sustain.round.glass/urban-jungle/bee/) **RoundGlass Sustain**. January, 2021
 
