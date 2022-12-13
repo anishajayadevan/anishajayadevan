@@ -13,5 +13,8 @@ main:
   - name: Popular Writing
     url: 'writing'
     weight: 40
+  - name: Resources
+    url: 'resources'
+    weight: 40
     
 
