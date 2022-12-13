@@ -14,7 +14,7 @@ headless: false
 
 **Navigating Graduate School**
 
-*Mental health, working relationships, focus*
+*Mental health, working relationships, well-being*
 
 [1. Salsa Dancing into the Social Sciences by Kristen Luker](https://www.darknlight.com/projects/eye-in-the-sky/) *Humourously written advice for navigating graduate school; relevant to disciplines outside of the social sciences as well.*
 
