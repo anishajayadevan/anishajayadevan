@@ -13,7 +13,7 @@ title: Research
 
 <img align = "left" src="/img/elephants.jpg" alt = "Elephants crossing a road">
 <br CLEAR = all>
-Peri-urban areas around Bengaluru, India, have witnessed dramatic changes that have led to increased agriculture, the fragmentation of forests and the expansion of linear infrastructure. I am building a model of elephant decision-making to understand how present and future land-use changes might affect elephant movement and conflict patterns.
+Peri-urban areas around Bengaluru, India, are witnessing dramatic changes leading to increased agriculture, the fragmentation of forests and the expansion of linear infrastructure. I am building a model of elephant decision-making to understand how present and future land-use change might affect elephant movement and conflict patterns.
 <p>
 
 This project is part of the [Frontier Elephant Programme](https://frontierelephants.info/) and funded by [Bengaluru Sustainability Forum](www.bengalurusustainabilityforum.org/).
@@ -78,6 +78,6 @@ I presented a poster on this study at the 'semi-arid shrublands under changing c
 
 **Understanding species richness patterns in the Western Ghats of India**
 
-For many taxa like trees and frogs, there is a monotonic increase in species richness from the north to south of the Western Ghats biodiversity hotspot. Why is this? Along with Dr. Kartik Shanker from the Indian Institute of Sciences, I simulated how species ranges interact with temperature and boundaries (such as the coast line or the edge of a habitat) to influence species richness patterns in the Western Ghats.
+For many taxa like trees and frogs, there is a monotonic increase in species richness from the north to south of the Western Ghats biodiversity hotspot. Why is this? Along with Dr. Kartik Shanker from the Indian Institute of Science, I simulated how species ranges interact with temperature and boundaries (such as the coast line or the edge of a habitat) to influence species richness patterns in the Western Ghats.
 
 I presented a poster on this work at the International Biogeography Society meeting in Bangalore, India, in Sep 2017.
