@@ -8,7 +8,7 @@ headless: false
 ---
 <br>
 
-*[This article](https://theforestspirit.wordpress.com/2020/07/12/making-room-for-kindness-in-research-and-academia/) on cultivating kindness in research and academia struck a chord with a lot of people. I hope it's a conversation we can continue building on.*
+*[This blog post](https://theforestspirit.wordpress.com/2020/07/12/making-room-for-kindness-in-research-and-academia/) on cultivating kindness in research and academia struck a chord with a lot of people. I hope it's a conversation we can continue building on.*
 
 ***
 [Eye in the Sky.](https://www.darknlight.com/projects/eye-in-the-sky/) **Dark 'n'  Light**. September, 2022
