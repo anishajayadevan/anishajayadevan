@@ -12,9 +12,7 @@ headless: false
 
 [1. A Guide to Applying and Deciding on a PhD Program](https://e3b.columbia.edu/wp-content/uploads/2022/05/Guide-on-Meeting-with-Potential-Advisor-and-Asking-Questions-of-a-Grad-Program.pdf) 
 
-**Navigating Graduate School**
-
-*Mental health, working relationships, well-being*
+**Navigating Graduate School** *(Mental health, working relationships, well-being)*
 
 [1. Salsa Dancing into the Social Sciences by Kristen Luker](https://www.darknlight.com/projects/eye-in-the-sky/) *Humourously written advice for navigating graduate school; relevant to disciplines outside of the social sciences as well.*
 
