@@ -9,10 +9,6 @@ social:
 
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/anishafishtail
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=ibhNTiQAAAAJ&hl=en&oi=ao
