@@ -13,19 +13,19 @@ headless: false
 ***
 [Bengaluru's insects and arachnids.](https://citizenmatters.in/nature-guidebook-insects-spiders-environment-ecology-review/) **Citizen Matters**. February, 2025
 
-[Eye in the Sky.](https://www.darknlight.com/projects/eye-in-the-sky/) **Dark 'n'  Light**. September, 2022
+[Eye in the sky.](https://www.darknlight.com/projects/eye-in-the-sky/) **Dark 'n'  Light**. September, 2022
 
 ["I notice, I wonder, it reminds me of."](https://birdcount.in/fieldnotes-and-nature-journaling/) **Bird Count India**. November, 2021
 
-[A Family Saga: To Bee or Not to Bee.](https://sustain.round.glass/urban-jungle/bee/) **RoundGlass Sustain**. January, 2021
+[A family saga: To bee or not to bee.](https://sustain.round.glass/urban-jungle/bee/) **RoundGlass Sustain**. January, 2021
 
 [Fragmenting forests, Hubballi to Ankola.](https://sanctuarynaturefoundation.org/article/fragmenting-forests%2C-hubballi-to-ankola/) **Sanctuary Asia**. July, 2020
 
 [There's a caterpillar on your palm plant, Daddy.](https://round.glass/sustain/urban-jungle/caterpillars/) **RoundGlass Sustain.** January, 2020
 
-[Cafe Oikos: Ecology and Conservation straight from the horse's mouth.](https://indiabioscience.org/columns/indian-scenario/caf%C3%A9-oikos-ecology-conservation-straight-from-the-horses-mouth?token=45Qd-AGsiNuPqJ9AFBxG_SSTOEkQSQgY) **IndiaBioscience**. September, 2019
+[Cafe Oikos: ecology and conservation straight from the horse's mouth.](https://indiabioscience.org/columns/indian-scenario/caf%C3%A9-oikos-ecology-conservation-straight-from-the-horses-mouth?token=45Qd-AGsiNuPqJ9AFBxG_SSTOEkQSQgY) **IndiaBioscience**. September, 2019
 
-[How Your Field Notes, Dusty or New, Can Help Science.](https://indiabioscience.org/columns/indian-scenario/caf%C3%A9-oikos-ecology-conservation-straight-from-the-horses-mouth?token=45Qd-AGsiNuPqJ9AFBxG_SSTOEkQSQgY) **The Wire**. November, 2018
+[How your field notes, dusty or new, can help science.](https://indiabioscience.org/columns/indian-scenario/caf%C3%A9-oikos-ecology-conservation-straight-from-the-horses-mouth?token=45Qd-AGsiNuPqJ9AFBxG_SSTOEkQSQgY) **The Wire**. November, 2018
 
 [A forest on stilts.](http://jlrexplore.com/explore/focus/a-forest-on-stilts) **JLR Explore.** October, 2018
 
@@ -47,31 +47,31 @@ headless: false
 
 [Quest to find an elusive snail.](http://issuu.com/anishafishtoe/docs/current_conservation_kerala_snails/1) **Current Conservation.** April, 2015
 
-[Lessons in Wooing from the Natural World.](https://theforestspirit.wordpress.com/2014/07/10/lessons-in-wooing-from-the-natural-world/) **The Alternative.** June, 2014
+[Lessons in wooing from the natural world.](https://theforestspirit.wordpress.com/2014/07/10/lessons-in-wooing-from-the-natural-world/) **The Alternative.** June, 2014
 
 [Happy Tree Friends.](https://theforestspirit.wordpress.com/2014/06/28/happy-tree-friends/) **The Alternative.** May, 2014
 
-[Pilgrimage with a Difference.](https://issuu.com/anishafishtoe/docs/sanctuary_asia-_a_pilgrimage_with_a) **Sanctuary Asia.** April, 2014
+[Pilgrimage with a difference.](https://issuu.com/anishafishtoe/docs/sanctuary_asia-_a_pilgrimage_with_a) **Sanctuary Asia.** April, 2014
 
 
-[A Hoot of an Encounter with a Barn Owl.](https://theforestspirit.wordpress.com/2014/05/10/an-unexpected-visitor/) **The Alternative.** April, 2014
+[A hoot of an encounter with a barn owl.](https://theforestspirit.wordpress.com/2014/05/10/an-unexpected-visitor/) **The Alternative.** April, 2014
 
 [Lycaenid butterfies, the masters of deception.](https://theforestspirit.wordpress.com/2014/05/03/a-master-of-deception/) **The Alternative.** March, 2014
 
-[Gliding Marvels of Midnight.](http://www.jlrexplore.com/from-the-field/-/asset_publisher/ozDYsXjN0wtv/content/gliding-marvels-of-midnight) **JLR Explore.** February, 2014
+[Gliding marvels of midnight.](http://www.jlrexplore.com/from-the-field/-/asset_publisher/ozDYsXjN0wtv/content/gliding-marvels-of-midnight) **JLR Explore.** February, 2014
 
-[Know Your Urban Wildlife.](https://www.caleidoscope.in/eco-ideaz/know-your-urban-wildlife) Caleidoscope. February, 2014.
+[Know your urban wildlife.](https://www.caleidoscope.in/eco-ideaz/know-your-urban-wildlife) Caleidoscope. February, 2014.
 
-[The Lily Moths and its Dubious Relationship with the Lily.](https://theforestspirit.wordpress.com/2014/05/01/the-dubious-relationship-of-the-lily-and-the-lily-moth/) **The Alternative.** January, 2014
+[The lily moths and its dubious relationship with the lily.](https://theforestspirit.wordpress.com/2014/05/01/the-dubious-relationship-of-the-lily-and-the-lily-moth/) **The Alternative.** January, 2014
 
-[KV Gururaja and His World of Frogs.](https://theforestspirit.wordpress.com/2014/05/01/the-dubious-relationship-of-the-lily-and-the-lily-moth/) **Caleidoscope.** January, 2014.
+[KV Gururaja and his world of frogs.](https://theforestspirit.wordpress.com/2014/05/01/the-dubious-relationship-of-the-lily-and-the-lily-moth/) **Caleidoscope.** January, 2014.
 
-[Finding Awe in the World of Insects.](http://issuu.com/anishafishtoe/docs/discovering_awe_in_the_world_of_ins) **Deccan Herald Student Edition.** December 2013
+[Finding awe in the world of insects.](http://issuu.com/anishafishtoe/docs/discovering_awe_in_the_world_of_ins) **Deccan Herald Student Edition.** December 2013
 
-[Watching a Bird Party Unfold.](http://issuu.com/anishafishtoe/docs/watching_a_bird_party_unfold.docx) **Deccan Herald Student Edition.** September, 2013
+[Watching a bird party unfold.](http://issuu.com/anishafishtoe/docs/watching_a_bird_party_unfold.docx) **Deccan Herald Student Edition.** September, 2013
 
-[The Adventures of a Nature Sleuth.](https://theforestspirit.wordpress.com/2014/01/18/the-adventures-of-a-nature-sleuth/) **Deccan Herald Student Edition.** August, 2013
+[The adventures of a nature sleuth.](https://theforestspirit.wordpress.com/2014/01/18/the-adventures-of-a-nature-sleuth/) **Deccan Herald Student Edition.** August, 2013
 
-[Our Parthenium-Hungry Amigos.](http://issuu.com/anishafishtoe/docs/our_parthenium_hungry_amigos.docx) **Deccan Herald Student Edition.** July, 2013
+[Our parthenium-hungry amigos.](http://issuu.com/anishafishtoe/docs/our_parthenium_hungry_amigos.docx) **Deccan Herald Student Edition.** July, 2013
 
 
