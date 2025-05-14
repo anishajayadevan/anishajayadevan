@@ -11,6 +11,8 @@ headless: false
 *[This blog post](https://theforestspirit.wordpress.com/2020/07/12/making-room-for-kindness-in-research-and-academia/) on cultivating kindness in research and academia struck a chord with a lot of people. I hope it's a conversation we can continue building on.*
 
 ***
+[Bengaluru's insects and arachnids.](https://citizenmatters.in/nature-guidebook-insects-spiders-environment-ecology-review/) **Citizen Matters**. February, 2025
+
 [Eye in the Sky.](https://www.darknlight.com/projects/eye-in-the-sky/) **Dark 'n'  Light**. September, 2022
 
 ["I notice, I wonder, it reminds me of."](https://birdcount.in/fieldnotes-and-nature-journaling/) **Bird Count India**. November, 2021
