@@ -14,7 +14,6 @@ title: Research
 <img align = "left" src="/img/elephants.jpg" alt = "Elephants crossing a road">
 <br CLEAR = all>
 Peri-urban areas around Bengaluru, India, are witnessing dramatic changes leading to increased agriculture, the fragmentation of forests and the expansion of linear infrastructure. As part of a project with the [Frontier Elephant Programme](https://frontierelephants.info/), I modeled elephant decision-making to understand and predict how present and future land-use change might affect elephant movement and conflict patterns.
-<p>
 
 <br>
 
@@ -64,7 +63,7 @@ I also led the development of a science-based data portal, [India Under Construc
 
 Bush encroachment, which is the natural or artificial increase in woody vegetation, is a major threat to savannas globally. In the Banni grasslands of India— one of India's largest grasslands— bush encroachment due to the invasive *Prosopis juliflora* has resulted in the conversion of ~45% of the grassland into woodlands. I investigated how bush encroachment in the Banni grasslands influenced the behaviour of nocturnal rodents which are a keystone species in grasslands.
 
-This research was for my dissertation, as part of the [Master's program in Wildlife Biology and Conservation](https://www.ncbs.res.in/mscprogram/)at the National Centre for Biological Sciences. My advisors were Dr. Shomen Mukherjee and Dr. Abi Tamim Vanak.
+This research was for my dissertation, as part of the [Master's program in Wildlife Biology and Conservation](https://www.ncbs.res.in/mscprogram/) at the National Centre for Biological Sciences. My advisors were Dr. Shomen Mukherjee and Dr. Abi Tamim Vanak.
 
 <br>
 
